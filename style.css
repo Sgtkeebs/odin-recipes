@@ -1,0 +1,34 @@
+h1, h4 {
+    text-align: center;
+    font-family: verdana, Geneva, Tahoma, sans-serif; 
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+ .center, .dropshadowimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    box-shadow: 5px 5px 5px #636363;
+ }
+
+p {
+    text-align: center;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+ul, li {
+    text-align: center;
+    margin: 0;
+    padding: 0; 
+}
+
+a:link {
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
